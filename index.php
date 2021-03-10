@@ -1,13 +1,14 @@
 <?php
 $url = getenv("LINK");
+$fb = getenv("FB_PIXEL")
 ?>
 
 <!DOCTYPE html>
-<!-- saved from url=(0053)https://cursoaprovadoagora.com.br/mestredohamburguer/ -->
-<html lang="pt-BR"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!--<base href="https://mestredohamburguer.seucursoaprovado.com/mestre-do-hamburguer/">--><base href=".">
+
+<html lang="pt-BR"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><base href=".">
 	
 		<title>Mestre do Hambúrguer Oficial – Mestre do Hambúrguer</title>
-<script type="text/javascript" id="www-widgetapi-script" src="./assets_files/www-widgetapi.js" async=""></script><script src="./assets_files/iframe_api"></script><script src="./assets_files/877672922775900" async=""></script><script src="./assets_files/257445322523607" async=""></script><script async="" src="./assets_files/fbevents.js"></script><script type="application/javascript">console.log('PixelYourSite Free version 8.0.8');</script>
+
 <link rel="dns-prefetch" href="https://s.w.org/">
 <link rel="alternate" type="application/rss+xml" title="Feed para Mestre do Hambúrguer »" href="https://mestredohamburguer.seucursoaprovado.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Feed de comentários para Mestre do Hambúrguer »" href="https://mestredohamburguer.seucursoaprovado.com/comments/feed/">
@@ -65,12 +66,12 @@ n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];
 s.parentNode.insertBefore(t,s)}(window, document,'script',
 'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '257445322523607');
+fbq('init', '<?php echo $fb ?>');
 fbq('track', 'PageView');
 fbq('track', 'ViewContent');
 </script>
 <noscript><img height='1' width='1' style='display:none'
-src='https://www.facebook.com/tr?id=257445322523607&ev=PageView&noscript=1'
+src='https://www.facebook.com/tr?id=<?php echo $fb ?>&ev=PageView&noscript=1'
 /></noscript></head>
 <body class="page-template page-template-elementor_canvas page page-id-8 wp-embed-responsive is-light-theme singular elementor-default elementor-template-canvas elementor-kit-10 elementor-page elementor-page-8 e--ua-blink e--ua-chrome e--ua-mac e--ua-webkit" data-elementor-device-mode="mobile" cz-shortcut-listen="true">
 			<div data-elementor-type="wp-page" data-elementor-id="8" class="elementor elementor-8" data-elementor-settings="[]">
@@ -900,7 +901,7 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
     margin:0px;
 }
 </style>
-<!-- WHATSAPP -->
+<!-- WHATSAPP 
 
 <div id="wpp" style="display:none">
     <a href="https://wa.me/55?text=Ol%C3%A1,%20estou%20no%20site%20Curso%20hamburguer%20%20e%20tenho%20uma%20d%C3%BAvida..." target="_blank">
@@ -909,6 +910,6 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
             <p class="txt-wpp">Está com alguma dúvida ? </p>
         </div>
     </a>
-</div>
+</div>-->
 
 </body></html>
