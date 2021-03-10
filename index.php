@@ -5,7 +5,8 @@ $fb = getenv("FB_PIXEL")
 
 <!DOCTYPE html>
 
-<html lang="pt-BR"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><base href=".">
+<html lang="pt-BR"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="facebook-domain-verification" content="97qmfg1o5ei8rmfevjb1ervoy93isw" /><base href=".">
 	
 		<title>Mestre do Hambúrguer Oficial – Mestre do Hambúrguer</title>
 
