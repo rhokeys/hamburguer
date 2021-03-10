@@ -127,7 +127,7 @@ src='https://www.facebook.com/tr?id=<?php echo $fb ?>&ev=PageView&noscript=1'
 								<div class="elementor-element elementor-element-4773808b elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="4773808b" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/syUCjkvRQG0&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-			<iframe class="elementor-video" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" width="640" height="360" src="./assets_files/syUCjkvRQG0.html" id="widget2" style="max-width: 100%; max-height: 182px;"></iframe>		</div>
+					<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/syUCjkvRQG0?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>		</div>
 				</div>
 				</div>
 					</div>
@@ -345,7 +345,7 @@ src='https://www.facebook.com/tr?id=<?php echo $fb ?>&ev=PageView&noscript=1'
 								<div class="elementor-element elementor-element-3e7c4d7a elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="3e7c4d7a" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/3fXmq1LnGDM&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-			<iframe class="elementor-video" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" width="640" height="360" src="./assets_files/3fXmq1LnGDM.html" id="widget4" style="max-width: 100%; max-height: 183px;"></iframe>		</div>
+					<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3fXmq1LnGDM?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>		</div>
 				</div>
 				</div>
 					</div>
